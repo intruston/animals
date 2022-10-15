@@ -2,3 +2,6 @@ There are 3 animals in my zoo:
 1 Elephant
 1 Monkey
 1 Polar Bear
+I added few more:
+1 Giraffe
+1 Zebra

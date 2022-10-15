@@ -1,0 +1,4 @@
+There are 3 pets at my zoo:
+1 Sheep
+1 Dog
+1 Cat
